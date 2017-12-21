@@ -1,0 +1,2 @@
+# npuv
+No Python Usdview
